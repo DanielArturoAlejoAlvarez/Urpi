@@ -6,7 +6,7 @@ require 'Urpi/version'
 Gem::Specification.new do |spec|
   spec.name          = "Urpi"
   spec.version       = Urpi::VERSION
-  spec.authors       = ["Daniel Alejo"]
+  spec.authors       = ["Daniel Alejo Alvarez"]
   spec.email         = ["yourmediasoft@gmail.com"]
 
   spec.summary       = %q{Gem Urpi created with Ruby, is a dynamic and scalable password generator following a specific range (Arrays, Encrypt, Passwords, Security)}
